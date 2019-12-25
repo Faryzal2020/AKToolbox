@@ -1,6 +1,6 @@
 [
 	{
-		"name_cn": "暴行",
+		"name_cn": "Savage",
 		"name_en": "Savage",
 		"name_jp": "Savage",
 		"name_kr": "Savage",
@@ -56,7 +56,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "夜刀",
+		"name_cn": "Yato",
 		"name_en": "Yato",
 		"name_jp": "",
 		"name_kr": "",
@@ -75,7 +75,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "杜林",
+		"name_cn": "Durin",
 		"name_en": "Durin",
 		"name_jp": "",
 		"name_kr": "",
@@ -113,7 +113,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "巡林者",
+		"name_cn": "Rangers",
 		"name_en": "Rangers",
 		"name_jp": "",
 		"name_kr": "",
@@ -132,7 +132,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "黑角",
+		"name_cn": "Noir Corne",
 		"name_en": "Noir Corne",
 		"name_jp": "",
 		"name_kr": "",
@@ -151,7 +151,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "芬",
+		"name_cn": "Fang",
 		"name_en": "Fang",
 		"name_jp": "",
 		"name_kr": "",
@@ -170,7 +170,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "香草",
+		"name_cn": "Vanilla",
 		"name_en": "Vanilla",
 		"name_jp": "",
 		"name_kr": "",
@@ -189,7 +189,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "翎羽",
+		"name_cn": "Plume",
 		"name_en": "Plume",
 		"name_jp": "",
 		"name_kr": "",
@@ -209,7 +209,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "芙蓉",
+		"name_cn": "Hibiscus",
 		"name_en": "Hibiscus",
 		"name_jp": "",
 		"name_kr": "",
@@ -228,7 +228,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "安赛尔",
+		"name_cn": "Ansel",
 		"name_en": "Ansel",
 		"name_jp": "",
 		"name_kr": "",
@@ -247,7 +247,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "炎熔",
+		"name_cn": "Lava",
 		"name_en": "Lava",
 		"name_jp": "",
 		"name_kr": "",
@@ -266,7 +266,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "史都华德",
+		"name_cn": "Steward",
 		"name_en": "Steward",
 		"name_jp": "",
 		"name_kr": "",
@@ -285,7 +285,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "克洛丝",
+		"name_cn": "Kroos",
 		"name_en": "Kroos",
 		"name_jp": "",
 		"name_kr": "",
@@ -304,7 +304,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "安德切尔",
+		"name_cn": "Adnachiel",
 		"name_en": "Adnachiel",
 		"name_jp": "",
 		"name_kr": "",
@@ -323,7 +323,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "梓兰",
+		"name_cn": "Orchid",
 		"name_en": "Orchid",
 		"name_jp": "",
 		"name_kr": "",
@@ -342,7 +342,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "玫兰莎",
+		"name_cn": "Melantha",
 		"name_en": "Melantha",
 		"name_jp": "",
 		"name_kr": "",
@@ -362,7 +362,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "米格鲁",
+		"name_cn": "Beagle",
 		"name_en": "Beagle",
 		"name_jp": "",
 		"name_kr": "",
@@ -381,7 +381,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "卡缇",
+		"name_cn": "Cardigan",
 		"name_en": "Cardigan",
 		"name_jp": "",
 		"name_kr": "",
@@ -400,7 +400,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "讯使",
+		"name_cn": "Courier",
 		"name_en": "Courier",
 		"name_jp": "",
 		"name_kr": "",
@@ -420,7 +420,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "清道夫",
+		"name_cn": "Scavenger",
 		"name_en": "Scavenger",
 		"name_jp": "",
 		"name_kr": "",
@@ -440,7 +440,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "红豆",
+		"name_cn": "Vigna",
 		"name_en": "Vigna",
 		"name_jp": "",
 		"name_kr": "",
@@ -460,7 +460,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "末药",
+		"name_cn": "Myrrh",
 		"name_en": "Myrrh",
 		"name_jp": "",
 		"name_kr": "",
@@ -479,7 +479,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "嘉维尔",
+		"name_cn": "Gavial",
 		"name_en": "Gavial",
 		"name_jp": "",
 		"name_kr": "",
@@ -498,7 +498,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "调香师",
+		"name_cn": "Perfumer",
 		"name_en": "Perfumer",
 		"name_jp": "",
 		"name_kr": "",
@@ -517,7 +517,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "夜烟",
+		"name_cn": "Haze",
 		"name_en": "Haze",
 		"name_jp": "",
 		"name_kr": "",
@@ -537,7 +537,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "远山",
+		"name_cn": "Gitano",
 		"name_en": "Gitano",
 		"name_jp": "",
 		"name_kr": "",
@@ -556,7 +556,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "砾",
+		"name_cn": "Gravel",
 		"name_en": "Gravel",
 		"name_jp": "",
 		"name_kr": "",
@@ -576,7 +576,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "暗索",
+		"name_cn": "Rope",
 		"name_en": "Rope",
 		"name_jp": "",
 		"name_kr": "",
@@ -613,7 +613,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "阿消",
+		"name_cn": "Shaw",
 		"name_en": "Shaw",
 		"name_jp": "",
 		"name_kr": "",
@@ -632,7 +632,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "白雪",
+		"name_cn": "ShiraYuki",
 		"name_en": "ShiraYuki",
 		"name_jp": "",
 		"name_kr": "",
@@ -652,7 +652,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "流星",
+		"name_cn": "Meteor",
 		"name_en": "Meteor",
 		"name_jp": "",
 		"name_kr": "",
@@ -672,7 +672,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "杰西卡",
+		"name_cn": "Jessica",
 		"name_en": "Jessica",
 		"name_jp": "",
 		"name_kr": "",
@@ -692,7 +692,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "深海色",
+		"name_cn": "Deepcolor",
 		"name_en": "Deepcolor",
 		"name_jp": "",
 		"name_kr": "",
@@ -711,7 +711,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "地灵",
+		"name_cn": "Earthspirit",
 		"name_en": "Earthspirit",
 		"name_jp": "",
 		"name_kr": "",
@@ -730,7 +730,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "杜宾",
+		"name_cn": "Dobermann",
 		"name_en": "Dobermann",
 		"name_jp": "",
 		"name_kr": "",
@@ -750,7 +750,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "艾丝黛尔",
+		"name_cn": "Estelle",
 		"name_en": "Estelle",
 		"name_jp": "",
 		"name_kr": "",
@@ -770,7 +770,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "猎蜂",
+		"name_cn": "Beehunter",
 		"name_en": "Beehunter",
 		"name_jp": "",
 		"name_kr": "",
@@ -789,7 +789,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "慕斯",
+		"name_cn": "Mousse",
 		"name_en": "Mousse",
 		"name_jp": "",
 		"name_kr": "",
@@ -808,7 +808,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "霜叶",
+		"name_cn": "Frostleaf",
 		"name_en": "Frostleaf",
 		"name_jp": "",
 		"name_kr": "",
@@ -828,7 +828,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "缠丸",
+		"name_cn": "Matoimaru",
 		"name_en": "Matoimaru",
 		"name_jp": "",
 		"name_kr": "",
@@ -848,7 +848,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "蛇屠箱",
+		"name_cn": "Cuora",
 		"name_en": "Cuora",
 		"name_jp": "",
 		"name_kr": "",
@@ -867,8 +867,8 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "古米",
-		"name_en": "Гум",
+		"name_cn": "Gummy",
+		"name_en": "Gummy",
 		"name_jp": "",
 		"name_kr": "",
 		"characteristic_cn": "技能可以治疗友方单位",
@@ -887,7 +887,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "角峰",
+		"name_cn": "Matterhorn",
 		"name_en": "Matterhorn",
 		"name_jp": "",
 		"name_kr": "",
@@ -906,7 +906,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "德克萨斯",
+		"name_cn": "Texas",
 		"name_en": "Texas",
 		"name_jp": "",
 		"name_kr": "",
@@ -927,8 +927,8 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "凛冬",
-		"name_en": "Зима",
+		"name_cn": "Zima",
+		"name_en": "Zima",
 		"name_jp": "",
 		"name_kr": "",
 		"characteristic_cn": "能够阻挡两个敌人",
@@ -948,7 +948,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "白面鸮",
+		"name_cn": "Ptilopsis",
 		"name_en": "Ptilopsis",
 		"name_jp": "",
 		"name_kr": "",
@@ -969,7 +969,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "赫默",
+		"name_cn": "Silence",
 		"name_en": "Silence",
 		"name_jp": "",
 		"name_kr": "",
@@ -989,7 +989,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "华法琳",
+		"name_cn": "Warfarin",
 		"name_en": "Warfarin",
 		"name_jp": "",
 		"name_kr": "",
@@ -1010,7 +1010,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "阿米娅",
+		"name_cn": "Amiya",
 		"name_en": "Amiya",
 		"name_jp": "",
 		"name_kr": "",
@@ -1029,7 +1029,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "夜魔",
+		"name_cn": "Nightmare",
 		"name_en": "Nightmare",
 		"name_jp": "",
 		"name_kr": "",
@@ -1051,7 +1051,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "天火",
+		"name_cn": "Skyfire",
 		"name_en": "Skyfire",
 		"name_jp": "",
 		"name_kr": "",
@@ -1072,7 +1072,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "红",
+		"name_cn": "Projekt Red",
 		"name_en": "Projekt Red",
 		"name_jp": "",
 		"name_kr": "",
@@ -1093,7 +1093,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "狮蝎",
+		"name_cn": "Manticore",
 		"name_en": "Manticore",
 		"name_jp": "",
 		"name_kr": "",
@@ -1114,7 +1114,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "崖心",
+		"name_cn": "Cliffheart",
 		"name_en": "Cliffheart",
 		"name_jp": "",
 		"name_kr": "",
@@ -1135,7 +1135,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "食铁兽",
+		"name_cn": "FEater",
 		"name_en": "FEater",
 		"name_jp": "",
 		"name_kr": "",
@@ -1156,7 +1156,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "普罗旺斯",
+		"name_cn": "Provence",
 		"name_en": "Provence",
 		"name_jp": "",
 		"name_kr": "",
@@ -1176,7 +1176,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "蓝毒",
+		"name_cn": "Blue Poison",
 		"name_en": "Blue Poison",
 		"name_jp": "",
 		"name_kr": "",
@@ -1196,7 +1196,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "守林人",
+		"name_cn": "Firewatch",
 		"name_en": "Firewatch",
 		"name_jp": "",
 		"name_kr": "",
@@ -1217,7 +1217,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "陨星",
+		"name_cn": "Meteorite",
 		"name_en": "Meteorite",
 		"name_jp": "",
 		"name_kr": "",
@@ -1238,7 +1238,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "白金",
+		"name_cn": "Platinum",
 		"name_en": "Platinum",
 		"name_jp": "",
 		"name_kr": "",
@@ -1258,7 +1258,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "初雪",
+		"name_cn": "Pramanix",
 		"name_en": "Pramanix",
 		"name_jp": "",
 		"name_kr": "",
@@ -1278,8 +1278,8 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "真理",
-		"name_en": "Истина",
+		"name_cn": "Istina",
+		"name_en": "Istina",
 		"name_jp": "",
 		"name_kr": "",
 		"characteristic_cn": "攻击造成法术伤害，并对敌人造成短暂的停顿",
@@ -1299,7 +1299,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "梅尔",
+		"name_cn": "Mayer",
 		"name_en": "Mayer",
 		"name_jp": "",
 		"name_kr": "",
@@ -1320,7 +1320,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "空",
+		"name_cn": "Sora",
 		"name_en": "Sora",
 		"name_jp": "",
 		"name_kr": "",
@@ -1341,7 +1341,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "芙兰卡",
+		"name_cn": "Franka",
 		"name_en": "Franka",
 		"name_jp": "",
 		"name_kr": "",
@@ -1362,7 +1362,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "幽灵鲨",
+		"name_cn": "Specter",
 		"name_en": "Specter",
 		"name_jp": "",
 		"name_kr": "",
@@ -1383,7 +1383,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "因陀罗",
+		"name_cn": "Indra",
 		"name_en": "Indra",
 		"name_jp": "",
 		"name_kr": "",
@@ -1404,7 +1404,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "陈",
+		"name_cn": "Ch'en",
 		"name_en": "Ch'en",
 		"name_jp": "",
 		"name_kr": "",
@@ -1424,7 +1424,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "拉普兰德",
+		"name_cn": "Lappland",
 		"name_en": "Lappland",
 		"name_jp": "",
 		"name_kr": "",
@@ -1445,7 +1445,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "临光",
+		"name_cn": "Nearl",
 		"name_en": "Nearl",
 		"name_jp": "",
 		"name_kr": "",
@@ -1466,7 +1466,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "雷蛇",
+		"name_cn": "Liskarm",
 		"name_en": "Liskarm",
 		"name_jp": "",
 		"name_kr": "",
@@ -1487,7 +1487,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "火神",
+		"name_cn": "Vulcan",
 		"name_en": "Vulcan",
 		"name_jp": "",
 		"name_kr": "",
@@ -1509,7 +1509,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "可颂",
+		"name_cn": "Croissant",
 		"name_en": "Croissant",
 		"name_jp": "",
 		"name_kr": "",
@@ -1530,7 +1530,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "推进之王",
+		"name_cn": "Siege",
 		"name_en": "Siege",
 		"name_jp": "",
 		"name_kr": "",
@@ -1552,7 +1552,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "闪灵",
+		"name_cn": "Shining",
 		"name_en": "Shining",
 		"name_jp": "",
 		"name_kr": "",
@@ -1574,7 +1574,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "夜莺",
+		"name_cn": "Nightingale",
 		"name_en": "Nightingale",
 		"name_jp": "",
 		"name_kr": "",
@@ -1614,7 +1614,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "伊芙利特",
+		"name_cn": "Ifrit",
 		"name_en": "Ifrit",
 		"name_jp": "",
 		"name_kr": "",
@@ -1636,7 +1636,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "艾雅法拉",
+		"name_cn": "Eyjafjalla",
 		"name_en": "Eyjafjalla",
 		"name_jp": "",
 		"name_kr": "",
@@ -1658,7 +1658,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "能天使",
+		"name_cn": "Exusiai",
 		"name_en": "Exusiai",
 		"name_jp": "",
 		"name_kr": "",
@@ -1679,7 +1679,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "安洁莉娜",
+		"name_cn": "Angelina",
 		"name_en": "Angelina",
 		"name_jp": "",
 		"name_kr": "",
@@ -1702,7 +1702,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "银灰",
+		"name_cn": "SilverAsh",
 		"name_en": "SilverAsh",
 		"name_jp": "",
 		"name_kr": "",
@@ -1724,7 +1724,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "星熊",
+		"name_cn": "Hoshiguma",
 		"name_en": "Hoshiguma",
 		"name_jp": "",
 		"name_kr": "",
@@ -1746,7 +1746,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "塞雷娅",
+		"name_cn": "Saria",
 		"name_en": "Saria",
 		"name_jp": "",
 		"name_kr": "",
@@ -1769,7 +1769,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "空爆",
+		"name_cn": "Catapult",
 		"name_en": "Catapult",
 		"name_jp": "",
 		"name_kr": "",
@@ -1788,7 +1788,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "月见夜",
+		"name_cn": "Midnight",
 		"name_en": "Midnight",
 		"name_jp": "",
 		"name_kr": "",
@@ -1807,7 +1807,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "格拉尼",
+		"name_cn": "Grani",
 		"name_en": "Grani",
 		"name_jp": "",
 		"name_kr": "",
@@ -1825,7 +1825,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "斯卡蒂",
+		"name_cn": "Skadi",
 		"name_en": "Skadi",
 		"name_jp": "",
 		"name_kr": "",
@@ -1846,7 +1846,7 @@
 		"hidden": false
 	},
 	{
-		"name_cn": "泡普卡",
+		"name_cn": "Popukar",
 		"name_en": "Popukar",
 		"name_jp": "",
 		"name_kr": "",
@@ -1864,7 +1864,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "诗怀雅",
+		"name_cn": "Swire",
 		"name_en": "Swire",
 		"name_jp": "",
 		"name_kr": "",
@@ -1882,7 +1882,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "斑点",
+		"name_cn": "Spot",
 		"name_en": "Spot",
 		"name_jp": "",
 		"name_kr": "",
@@ -1900,7 +1900,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "格雷伊",
+		"name_cn": "Greyy",
 		"name_en": "Greyy",
 		"name_jp": "",
 		"name_kr": "",
@@ -1918,7 +1918,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "黑",
+		"name_cn": "Schwarz",
 		"name_en": "Schwarz",
 		"name_jp": "",
 		"name_kr": "",
@@ -1936,7 +1936,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "格劳克斯",
+		"name_cn": "Glaucus",
 		"name_en": "Glaucus",
 		"name_jp": "",
 		"name_kr": "",
@@ -1954,7 +1954,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "锡兰",
+		"name_cn": "Ceylon",
 		"name_en": "Ceylon",
 		"name_jp": "",
 		"name_kr": "",
@@ -1972,7 +1972,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "苏苏洛",
+		"name_cn": "Sussurro",
 		"name_en": "Sussurro",
 		"name_jp": "",
 		"name_kr": "",
@@ -1990,7 +1990,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "桃金娘",
+		"name_cn": "Myrtle",
 		"name_en": "Myrtle",
 		"name_jp": "",
 		"name_kr": "",
@@ -2008,7 +2008,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "星极",
+		"name_cn": "Astesia",
 		"name_en": "Astesia",
 		"name_jp": "",
 		"name_kr": "",
@@ -2026,7 +2026,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "赫拉格",
+		"name_cn": "Hellagur",
 		"name_en": "Hellagur",
 		"name_jp": "",
 		"name_kr": "",
@@ -2044,7 +2044,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "坚雷",
+		"name_cn": "Dur-nar",
 		"name_en": "Dur-nar",
 		"name_jp": "",
 		"name_kr": "",
@@ -2062,7 +2062,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "红云",
+		"name_cn": "Vermeil",
 		"name_en": "Vermeil",
 		"name_jp": "",
 		"name_kr": "",
@@ -2080,7 +2080,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "麦哲伦",
+		"name_cn": "Magallan",
 		"name_en": "Magallan",
 		"name_jp": "",
 		"name_kr": "",
@@ -2098,7 +2098,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "炎客",
+		"name_cn": "Flamebringer",
 		"name_en": "Flamebringer",
 		"name_jp": "",
 		"name_kr": "",
@@ -2116,7 +2116,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "送葬人",
+		"name_cn": "Executor",
 		"name_en": "Executor",
 		"name_jp": "",
 		"name_kr": "",
@@ -2134,7 +2134,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "伊桑",
+		"name_cn": "Ethan",
 		"name_en": "Ethan",
 		"name_jp": "",
 		"name_kr": "",
@@ -2152,7 +2152,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "微风",
+		"name_cn": "Breeze",
 		"name_en": "Breeze",
 		"name_jp": "",
 		"name_kr": "",
@@ -2170,7 +2170,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "槐琥",
+		"name_cn": "Waai Fu",
 		"name_en": "Waai Fu",
 		"name_jp": "",
 		"name_kr": "",
@@ -2188,7 +2188,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "莫斯提马",
+		"name_cn": "Mostima",
 		"name_en": "Mostima",
 		"name_jp": "",
 		"name_kr": "",
@@ -2206,7 +2206,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "梅",
+		"name_cn": "May",
 		"name_en": "May",
 		"name_jp": "",
 		"name_kr": "",
@@ -2224,7 +2224,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "拜松",
+		"name_cn": "Bison",
 		"name_en": "Bison",
 		"name_jp": "",
 		"name_kr": "",
@@ -2242,7 +2242,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "苇草",
+		"name_cn": "Reed",
 		"name_en": "Reed",
 		"name_jp": "",
 		"name_kr": "",
@@ -2260,7 +2260,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "布洛卡",
+		"name_cn": "Broca",
 		"name_en": "Broca",
 		"name_jp": "",
 		"name_kr": "",
@@ -2278,7 +2278,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "安比尔",
+		"name_cn": "Ambriel",
 		"name_en": "Ambriel",
 		"name_jp": "",
 		"name_kr": "",
@@ -2296,7 +2296,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "灰喉",
+		"name_cn": "GreyThroat",
 		"name_en": "GreyThroat",
 		"name_jp": "",
 		"name_kr": "",
@@ -2314,7 +2314,7 @@
 		"hidden": true
 	},
 	{
-		"name_cn": "煌",
+		"name_cn": "Blaze",
 		"name_en": "Blaze",
 		"name_jp": "",
 		"name_kr": "",

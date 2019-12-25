@@ -2,10 +2,10 @@
   "schedule": [
     {
       "id": "openseverTaskGroup1",
-      "startTs": 1533844800,
-      "endTs": 1850068799,
-      "totalCheckinDescption": "累计登录签到以获得奖励。不需要连续登录也可以让您获得全部奖励物资。",
-      "chainLoginDescription": " 连续签到7天即可获得5星干员【崖心】。\n中断签到将会重新计算天数，奖励无法重复领取。 ",
+      "startTs": 1533898800,
+      "endTs": 1850122799,
+      "totalCheckinDescption": "Sign in for a certain number days to earn rewards. You can earn all the rewards even without signing in consecutively.",
+      "chainLoginDescription": "Sign in for 7 days consecutively to get the 5-star Operator “Cliffheart”.\nYour progress will be reset if you miss a sign-in day. Previous rewards cannot be claimed again.",
       "charImg": "openseverTaskGroup1"
     }
   ],
@@ -31,7 +31,7 @@
         {
           "id": "openserver_1",
           "sortId": 0,
-          "description": "通关主线0-1",
+          "description": "Clear Main Storyline0-1",
           "type": "OPENSERVER",
           "preMissionIds": null,
           "template": "CompleteMainStage",
@@ -57,7 +57,7 @@
         {
           "id": "openserver_2",
           "sortId": 0,
-          "description": "拥有至少1间Lv.2的控制中枢",
+          "description": "Own at least 1 Lv.2 Control Center",
           "type": "OPENSERVER",
           "preMissionIds": null,
           "template": "HasRoom",
@@ -85,7 +85,7 @@
         {
           "id": "openserver_3",
           "sortId": 0,
-          "description": "通关主线1-12",
+          "description": "Clear Main Storyline1-12",
           "type": "OPENSERVER",
           "preMissionIds": null,
           "template": "CompleteMainStage",
@@ -111,7 +111,7 @@
         {
           "id": "openserver_4",
           "sortId": 0,
-          "description": "玩家等级达到8级",
+          "description": "Player reaches Lv.8",
           "type": "OPENSERVER",
           "preMissionIds": null,
           "template": "UpgradePlayer",
@@ -198,69 +198,6 @@
             "count": 8
           },
           "colorId": 1
-        },
-        {
-          "order": 8,
-          "item": {
-            "itemId": "3302",
-            "itemType": "MATERIAL",
-            "count": 15
-          },
-          "colorId": 1
-        },
-        {
-          "order": 9,
-          "item": {
-            "itemId": "4001",
-            "itemType": "GOLD",
-            "count": 20000
-          },
-          "colorId": 1
-        },
-        {
-          "order": 10,
-          "item": {
-            "itemId": "30053",
-            "itemType": "MATERIAL",
-            "count": 3
-          },
-          "colorId": 1
-        },
-        {
-          "order": 11,
-          "item": {
-            "itemId": "3303",
-            "itemType": "MATERIAL",
-            "count": 8
-          },
-          "colorId": 1
-        },
-        {
-          "order": 12,
-          "item": {
-            "itemId": "30063",
-            "itemType": "MATERIAL",
-            "count": 2
-          },
-          "colorId": 1
-        },
-        {
-          "order": 13,
-          "item": {
-            "itemId": "2004",
-            "itemType": "CARD_EXP",
-            "count": 20
-          },
-          "colorId": 2
-        },
-        {
-          "order": 14,
-          "item": {
-            "itemId": "4001",
-            "itemType": "GOLD",
-            "count": 50000
-          },
-          "colorId": 2
         }
       ],
       "chainLoginData": [
@@ -332,6 +269,6 @@
   },
   "constant": {
     "firstDiamondShardMailCount": 3800,
-    "initApMailEndTs": 1557604800
+    "initApMailEndTs": 1557658800
   }
 }

@@ -8,11 +8,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "源石虫"
+              "m_value": "Originium Slug"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物。"
+              "m_value": "An infected wild creature."
             },
             "prefabKey": {
               "m_defined": true,
@@ -209,11 +209,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "源石虫·α"
+              "m_value": "Originium Slug α"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物，比一般源石虫更具有威胁。"
+              "m_value": "An infected wild creature that is more dangerous than a normal Originium Slug."
             },
             "prefabKey": {
               "m_defined": true,
@@ -410,11 +410,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "源石虫·β"
+              "m_value": "Originium Slug β"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物，比源石虫·α更具有威胁。"
+              "m_value": "An infected wild creature that is more dangerous than an Originium Slug α."
             },
             "prefabKey": {
               "m_defined": true,
@@ -513,11 +513,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "酸液源石虫"
+              "m_value": "Acid Originium Slug"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物，且会使用分泌物腐蚀<@eb.key>降低攻击目标的防御力</>。"
+              "m_value": "An infected wild creature that secretes corrosive fluids that can <@eb.key>reduce its target's DEF</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -622,11 +622,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "酸液源石虫·α"
+              "m_value": "Acid Originium Slug α"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般酸液源石虫更具有威胁，且会使用分泌物腐蚀<@eb.key>降低攻击目标的防御力</>。"
+              "m_value": "An infected wild creature that is more dangerous than an Acid Originium Slug. It secretes corrosive fluids that can <@eb.key>reduce its target's DEF</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -731,11 +731,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "高能源石虫"
+              "m_value": "Infused Originium Slug"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物，死亡后会产生<@eb.danger>爆炸</>。"
+              "m_value": "An infected wild creature that <@eb.danger>explodes</> upon death."
             },
             "prefabKey": {
               "m_defined": true,
@@ -840,11 +840,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "高能源石虫·α"
+              "m_value": "Infused Originium Slug α"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般高能源石虫更具有威胁，死亡后会产生<@eb.danger>爆炸</>。"
+              "m_value": "An infected wild creature that is more dangerous than an Infused Originium Slug, that <@eb.danger>explodes</> upon death."
             },
             "prefabKey": {
               "m_defined": true,
@@ -949,11 +949,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "猎狗"
+              "m_value": "Hound"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动技术侦察部队操纵的生物，<@eb.key>行动速度很快</>。"
+              "m_value": "A <@eb.key>fast-moving</> creature controlled by a Reunion recon squad."
             },
             "prefabKey": {
               "m_defined": true,
@@ -1150,11 +1150,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "猎狗pro"
+              "m_value": "Hound Pro"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般猎狗更具有作战能力，<@eb.key>行动速度很快</>。"
+              "m_value": "A <@eb.key>fast-moving</> creature controlled by a Reunion recon squad that is more dangerous than a normal Hound."
             },
             "prefabKey": {
               "m_defined": true,
@@ -1351,11 +1351,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "狂暴的猎狗pro"
+              "m_value": "Rabid Hound Pro"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比猎狗pro更具有作战能力，<@eb.key>行动速度很快</>。"
+              "m_value": "A <@eb.key>fast-moving</> creature controlled by a Reunion recon squad that is more dangerous than a Hound Pro."
             },
             "prefabKey": {
               "m_defined": true,
@@ -1454,11 +1454,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "士兵"
+              "m_value": "Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的基础近身作战人员。"
+              "m_value": "One of Reunion's basic melee soldiers."
             },
             "prefabKey": {
               "m_defined": true,
@@ -1655,11 +1655,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "弩手"
+              "m_value": "Crossbowman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的基础射击作战人员，<@eb.key>使用远距离攻击</>。"
+              "m_value": "One of Reunion's basic ranged soldiers, capable of attacking <@eb.key>from long range.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -1856,11 +1856,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "弩手组长"
+              "m_value": "Crossbowman Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比一般弩手更具作战能力，<@eb.key>使用远距离攻击</>。"
+              "m_value": "A more dangerous version of the Crossbowman, capable of attacking <@eb.key>from long range.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -2057,11 +2057,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "术师"
+              "m_value": "Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的基础法术作战人员，使用<@eb.key>远距离法术攻击</>。"
+              "m_value": "One of Reunion's basic casters, capable of attacking <@eb.key>using long-ranged Arts.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -2258,11 +2258,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "术师组长"
+              "m_value": "Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比一般术师更具作战能力，使用<@eb.key>远距离法术攻击</>。"
+              "m_value": "A more dangerous version of the Caster, capable of attacking <@eb.key>using long-ranged Arts.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -2557,11 +2557,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "高阶术师"
+              "m_value": "Senior Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "精英法术作战人员，擅长<@eb.key>远距离群体法术攻击</>。其攻击会伤害目标周围的单位。"
+              "m_value": "An elite Caster, capable of dealing <@eb.key>AoE Ranged Arts damage.</> Attacks will deal damage to units adjacent to the primary target."
             },
             "prefabKey": {
               "m_defined": true,
@@ -2660,11 +2660,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "高阶术师组长"
+              "m_value": "Senior Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "擅长<@eb.key>远距离群体法术攻击</>。其攻击会伤害目标周围的单位。"
+              "m_value": "A dangerous elite caster that attacks using <@eb.key>AoE Ranged Arts. Attacks will deal damage to units adjacent to the primary target."
             },
             "prefabKey": {
               "m_defined": true,
@@ -2763,11 +2763,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "空降兵"
+              "m_value": "Airborne Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "特殊近身作战人员，他们可以从出其不意的位置切入战场。"
+              "m_value": "A special melee unit that can attack from unexpected positions."
             },
             "prefabKey": {
               "m_defined": true,
@@ -2964,11 +2964,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "空降组长"
+              "m_value": "Airborne Soldier Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比空降兵更具威胁，他们可以从出其不意的位置切入战场。"
+              "m_value": "A special melee unit, more dangerous than a normal Airborne Soldier, that can attack from unexpected positions."
             },
             "prefabKey": {
               "m_defined": true,
@@ -3165,11 +3165,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "炮手"
+              "m_value": "Mortar Gunner"
             },
             "description": {
               "m_defined": true,
-              "m_value": "特殊远程作战人员，能够进行<@eb.key>超远距离溅射攻击</>。"
+              "m_value": "A special ranged unit that can launch <@eb.key>very long-ranged AoE attacks.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3268,11 +3268,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "炮击组长"
+              "m_value": "Mortar Gunner Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般炮手更具威胁，能够进行<@eb.key>超远距离溅射攻击</>。"
+              "m_value": "A more dangerous Mortar Gunner that can launch <@eb.key>very long-ranged AoE attacks.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3371,11 +3371,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "双持剑士"
+              "m_value": "Dual Swordsman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的近身作战人员，以<@eb.danger>高攻击力</>见长。"
+              "m_value": "A Reunion melee soldier, known for having <@eb.danger>high attack damage</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3572,11 +3572,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "双持剑士组长"
+              "m_value": "Dual Swordsman Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般双持剑士更具威胁，以<@eb.danger>高攻击力</>见长。"
+              "m_value": "A more dangerous Dual Swordsman, known for having <@eb.danger>high attack damage</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3773,11 +3773,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "轻甲卫兵"
+              "m_value": "Light-Armored Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的近身作战人员，他们有较高的<@eb.key>防御力</>。"
+              "m_value": "A Reunion melee soldier that has <@eb.key>fairly high defense</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3876,11 +3876,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "轻甲卫兵组长"
+              "m_value": "Light-Armored Soldier Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般轻甲卫兵更具威胁，他们有较高的<@eb.key>防御力</>。"
+              "m_value": "A more potent Light-Armored Soldier that has <@eb.key>fairly high defense</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -3979,11 +3979,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "重装防御者"
+              "m_value": "Heavy Defender"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的近身作战人员，<@eb.key>防御力很高</>且难以被击溃。"
+              "m_value": "A Reunion melee soldier that has <@eb.key>very high defense</> and is difficult to take down."
             },
             "prefabKey": {
               "m_defined": true,
@@ -4180,11 +4180,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "重装防御组长"
+              "m_value": "Heavy Defender Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般重装防御者更具威胁，<@eb.key>防御力很高</>且难以被击溃。"
+              "m_value": "A more dangerous version of the Heavy Defender that has <@eb.key>very high defense</> and is difficult to take down."
             },
             "prefabKey": {
               "m_defined": true,
@@ -4381,11 +4381,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "重装五十夫长"
+              "m_value": "Heavy Defender Lieutenant"
             },
             "description": {
               "m_defined": true,
-              "m_value": "重装防御者中的精英，比重装防御组长更具威胁，<@eb.key>防御力很高</>且难以被击溃。"
+              "m_value": "A heavily-armored elite soldier, more dangerous than a Heavy Defender Leader, that has <@eb.key>very high defense</> and is difficult to take down."
             },
             "prefabKey": {
               "m_defined": true,
@@ -4582,11 +4582,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "大鲍勃"
+              "m_value": "Big Bob"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的特殊近战人员，使用电锯进行攻击，兼具<@eb.danger>高耐久、攻击力和防御力</>。"
+              "m_value": "One of Reunion's special melee soldiers who attacks using an electric chainsaw. He has high <@eb.danger>HP, ATK, and DEF</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -4685,11 +4685,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "大亚当"
+              "m_value": "Big Adam"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比大鲍勃更具威胁，使用电锯进行攻击，兼具<@eb.danger>高耐久、攻击力和防御力</>。"
+              "m_value": "More dangerous than Big Bob, he attacks using an electric chainsaw and has high <@eb.danger>HP, ATK, and DEF</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -4788,11 +4788,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "磐蟹"
+              "m_value": "Metal Crab"
             },
             "description": {
               "m_defined": true,
-              "m_value": "野生的被感染生物，普通武器对其效果都不太理想，但是<@eb.key>重量</>并没有想像的大。"
+              "m_value": "An infected wild creature, completely covered in metal. Though most conventional weapons are not very effective against them, they <@eb.key>aren't as heavy as they seem</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -4989,11 +4989,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "潜伏者"
+              "m_value": "Lurker"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的特殊作战人员，<@eb.key>在被阻挡前无法被攻击</>。"
+              "m_value": "One of Reunion's special soldiers, <@eb.key>cannot be attacked unless blocked</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -5190,11 +5190,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "幽灵"
+              "m_value": "Wraith"
             },
             "description": {
               "m_defined": true,
-              "m_value": "擅长工程技术的人员，<@eb.key>无法被阻挡</>，需要尽快清除。"
+              "m_value": "A Reunion engineer that <@eb.key>cannot be attacked unless blocked</>. Must be eliminated as quickly as possible."
             },
             "prefabKey": {
               "m_defined": true,
@@ -5293,11 +5293,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "幽灵组长"
+              "m_value": "Wraith Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比幽灵拥有更高的防御力和耐久，<@eb.key>无法被阻挡</>，需要尽快清除。"
+              "m_value": "A tougher Reunion engineer that boasts higher ATK and HP than a regular Wraith, <@eb.key>cannot be attacked unless blocked</>. Must be eliminated as quickly as possible."
             },
             "prefabKey": {
               "m_defined": true,
@@ -5396,11 +5396,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "妖怪"
+              "m_value": "Monster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>敌方人员操纵的无人机，不会进行攻击。"
+              "m_value": "<@eb.key>[Aerial Unit]</> An unmanned enemey drone that does not attack."
             },
             "prefabKey": {
               "m_defined": true,
@@ -5597,11 +5597,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "妖怪MKII"
+              "m_value": "Monster Mk II"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>妖怪的改进版，可进行<@eb.key>远程物理射击</>。"
+              "m_value": "<@eb.key>[Aerial Unit]</> An improved version of the Monster that can launch <@eb.key>ranged attacks</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -5747,7 +5747,7 @@
                 "m_value": 0
               },
               "hpRecoveryPerSec": {
-                "m_defined": false,
+                "m_defined": true,
                 "m_value": 0.0
               },
               "spRecoveryPerSec": {
@@ -5798,11 +5798,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "威龙"
+              "m_value": "Raptor"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>大型无人机，拥有更好的耐久性能，可进行<@eb.key>远程物理射击</>。"
+              "m_value": "<@eb.key>[Aerial Unit]</> A larger, more resilient unmanned drone that can launch <@eb.key>ranged attacks</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -5901,11 +5901,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "御4"
+              "m_value": "Defender-4"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>无人机，能使周围敌军<@eb.key>防御力上升</>。"
+              "m_value": "<@eb.key>[Aerial Unit]</> A drone that can <@eb.key>increase the DEF</> of allied units around them."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6113,11 +6113,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "隐形弩手"
+              "m_value": "Invisible Crossbowman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "射击作战人员，<@eb.key>在被阻挡前无法被攻击</>。"
+              "m_value": "A ranged soldier that <@eb.key>cannot be attacked unless blocked</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6216,11 +6216,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "隐形弩手组长"
+              "m_value": "Invisible Crossbowman Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般隐形弩手更具威胁，<@eb.key>在被阻挡前无法被攻击</>。"
+              "m_value": "A stronger version of the Invisible Crossman that <@eb.key>cannot be attacked unless blocked</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6319,11 +6319,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "隐形术师"
+              "m_value": "Invisible Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "法术作战人员，<@eb.key>在被阻挡前无法被攻击</>。"
+              "m_value": "A caster that <@eb.key>cannot be attacked unless blocked</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6422,11 +6422,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "隐形术师组长"
+              "m_value": "Invisible Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般隐形术师更具威胁，<@eb.key>在被阻挡前无法被攻击</>。"
+              "m_value": "A stronger version of the Invisible Caster that <@eb.key>cannot be attacked unless blocked</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6525,11 +6525,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "技术侦察兵"
+              "m_value": "Technical Scout"
             },
             "description": {
               "m_defined": true,
-              "m_value": "技术作战人员，会使周围我方的<@eb.key>隐匿效果失效</>。"
+              "m_value": "An engineer that is capable of <@eb.key>detecting</> invisible allied Operators around them."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6634,11 +6634,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹大剑手"
+              "m_value": "Sarkaz Greatswordsman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "萨卡兹雇佣兵，拥有<@eb.key>较高攻击力和较高法术抗性</>。"
+              "m_value": "A mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6835,11 +6835,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹大剑组长"
+              "m_value": "Sarkaz Greatswordsman Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般萨卡兹大剑手更具威胁，拥有<@eb.key>较高攻击力和较高法术抗性</>。"
+              "m_value": "A more dangerous mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -6938,11 +6938,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹狙击手"
+              "m_value": "Sarkaz Crossbowman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "萨卡兹雇佣兵，拥有<@eb.key>较高攻击力和较高法术抗性</>，且可以进行<@eb.key>远距离物理射击</>。"
+              "m_value": "A mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</> and uses <@eb.key>ranged attacks</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -7139,11 +7139,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹狙击组长"
+              "m_value": "Sarkaz Crossbowman Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般萨卡兹狙击手更具威胁，拥有<@eb.key>较高攻击力和较高法术抗性</>，且可以进行<@eb.key>远距离物理射击</>。"
+              "m_value": "A more dangerous mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</> and uses <@eb.key>ranged attacks</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -7242,11 +7242,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹术师"
+              "m_value": "Sarkaz Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "拥有<@eb.key>较高攻击力和法术抗性</>。会使用<@eb.key>远距离法术攻击</>，且能够使用<@eb.key>禁锢我方单位</>的枷锁。"
+              "m_value": "A mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</> and uses <@eb.key>ranged Arts attacks</>. They are known to use Arts Chains to <@eb.key>disable Operators.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -7468,11 +7468,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹术师组长"
+              "m_value": "Sarkaz Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "拥有<@eb.key>较高攻击力和法术抗性</>。会使用<@eb.key>远距离法术攻击</>，且能够使用<@eb.key>禁锢我方单位</>的枷锁。"
+              "m_value": "A mercenary from Sarkaz who boasts <@eb.key>fairly high ATK and RES</> and uses <@eb.key>ranged Arts attacks</>. They are known to use Arts Chains to <@eb.key>disable Operators.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -7596,11 +7596,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "萨卡兹百夫长"
+              "m_value": "Sarkaz Centurion"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动干部。该敌人<@eb.danger>威胁很大</>，<@eb.danger>难以被消灭</>。"
+              "m_value": "One of Reunion's squad leaders. he is <@eb.danger>extremely dangerous</> and <@eb.danger>difficult to defeat</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -7797,11 +7797,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "寻仇者"
+              "m_value": "Avenger"
             },
             "description": {
               "m_defined": true,
-              "m_value": "该目标处于<@eb.key>低体力</>时似乎会大幅度提升作战意志。"
+              "m_value": "A soldier that has a stronger will to fight when <@eb.key>low on HP</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -8004,11 +8004,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "复仇者"
+              "m_value": "Hateful Avenger"
             },
             "description": {
               "m_defined": true,
-              "m_value": "该目标处于<@eb.key>低体力</>时似乎会大幅度提升作战意志。"
+              "m_value": "A soldier that has a stronger will to fight when <@eb.key>low on HP</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -8211,11 +8211,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "暴徒"
+              "m_value": "Rioter"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明的作战人员，使用随意制作的武器进行近身攻击。"
+              "m_value": "An enemy combatant of unknown identity, attacks using crude melee weapons."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8314,11 +8314,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "暴乱分子"
+              "m_value": "Rioter Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般暴徒更具威胁，使用随意制作的武器进行近身攻击。"
+              "m_value": "A more dangerous Rioter who attacks using crude melee weapons."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8417,11 +8417,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "鸡尾酒投掷者"
+              "m_value": "Cocktail Thrower"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明的作战人员，使用土制燃烧瓶进行<@eb.key>远程物理攻击</>。"
+              "m_value": "An enemy combatant of unknown identity who attacks using <@eb.key>ranged Molotov cocktails</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8520,11 +8520,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "燃烧瓶投掷者"
+              "m_value": "Firebomb Thrower"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般鸡尾酒投掷者更具威胁，使用土制燃烧瓶进行<@eb.key>远程物理攻击</>。"
+              "m_value": "A more dangerous Cocktail Thrower who attacks using <@eb.key>ranged Molotov cocktails</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8623,11 +8623,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "持盾刀兵"
+              "m_value": "Shielded Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的近身作战人员，拥有简单的物理防护能力。"
+              "m_value": "A Reunion melee soldier who has higher defensive abilities."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8726,11 +8726,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "机动盾组长"
+              "m_value": "Shielded Soldier Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般机动盾兵更具威胁，拥有简单的物理防护能力。"
+              "m_value": "A more dangerous Shielded Soldier who has higher defensive abilities."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8829,11 +8829,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "拾荒者"
+              "m_value": "Junkman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "缺少打理，穿着着破损服装的作战人员。"
+              "m_value": "A ragged-looking enemy combatant."
             },
             "prefabKey": {
               "m_defined": true,
@@ -8932,11 +8932,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "流浪者"
+              "m_value": "Veteran Junkman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "缺少打理，穿着着破损服装的作战人员。比一般拾荒者更有交战经验。"
+              "m_value": "A ragged-looking enemy combatant. They have more combat experience than regular Junkmen."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9035,11 +9035,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "法术近卫"
+              "m_value": "Arts Guard"
             },
             "description": {
               "m_defined": true,
-              "m_value": "受过法术战斗训练的近身作战人员，对目标造成<@eb.key>法术伤害</>。"
+              "m_value": "One of Reunion's melee soldiers who also has been trained in using Originium Arts, capable of dealing <@eb.key>Arts damage</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9138,11 +9138,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "法术近卫组长"
+              "m_value": "Arts Guard Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "受过法术战斗训练的近身作战人员，比一般法术近卫更具威胁，对目标造成<@eb.key>法术伤害</>。"
+              "m_value": "A more dangerous Arts Guard with extensive experience in using Originium Arts, capable of dealing <@eb.key>Arts damage</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9241,11 +9241,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "拳刃武士"
+              "m_value": "Bladed Fighter"
             },
             "description": {
               "m_defined": true,
-              "m_value": "受过一些传统战斗训练的近身作战人员，兼具<@eb.key>较高攻击力和防御力</>。"
+              "m_value": "A Reunion melee soldier that has undergone combat training, boasting <@eb.key>higher ATK and DEF</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9344,11 +9344,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "拳刃武士组长"
+              "m_value": "Bladed Fighter Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比一般拳刃武士更具威胁，兼具<@eb.key>较高攻击力和防御力</>。"
+              "m_value": "A more dangerous Bladed Fighter who has extensive combat training and boasts <@eb.key>higher ATK and DEF</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9447,11 +9447,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "伐木机"
+              "m_value": "Logger"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，穿戴简易林业护具，携带伐木工具进行攻击。"
+              "m_value": "An enemy of unknown identity who wears logging equipment and attacks with lumbering tools."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9550,11 +9550,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "伐木老手"
+              "m_value": "Veteran Logger"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，穿戴简易林业护具，携带伐木工具进行攻击。比“伐木机”更具有威胁。"
+              "m_value": "An enemy of unknown identity who wears logging equipment and attacks with lumbering tools. More dangerous than normal Loggers."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9653,11 +9653,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "屠夫"
+              "m_value": "Butcher"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，使用巨大的钝器进行攻击。拥有一定防护能力。"
+              "m_value": "An enemy of unknown identity who attacks using a massive blunt object. They possess relatively high defense."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9756,11 +9756,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "屠宰老手"
+              "m_value": "Veteran Butcher"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，使用巨大的钝器进行攻击。比屠夫更具有威胁，拥有一定防护能力。"
+              "m_value": "An enemy of unknown identity who attacks using a massive blunt object. This variant is even more dangerous than a normal Butcher, and has relatively high defense."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9859,11 +9859,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "武装人员"
+              "m_value": "Armed Militant"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，使用巨大的钝器进行攻击。拥有高防护能力。"
+              "m_value": "An enemy of unknown identity who attacks using a massive blunt object. They possess high defense."
             },
             "prefabKey": {
               "m_defined": true,
@@ -9962,11 +9962,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "高级武装人员"
+              "m_value": "Senior Armed Militant"
             },
             "description": {
               "m_defined": true,
-              "m_value": "来路不明，使用巨大的钝器进行攻击。比一般武装人员更具有威胁，拥有高防护能力。"
+              "m_value": "An enemy of unknown identity who attacks using a massive blunt object. This variant is even more dangerous than normal Armed Militants, and also has high defense."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10065,11 +10065,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "护盾高阶术士"
+              "m_value": "Shielded Senior Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "特殊的高阶术士，擅长<@eb.key>远距离群体法术攻击</>，周身的防护盾提供了较高的防御力。"
+              "m_value": "An elite Reunion caster who attacks using <@eb.key>ranged AoE Arts</>. Their shields provide them with higher physical defense."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10168,11 +10168,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "特战士兵"
+              "m_value": "Spec Ops Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的近身作战人员。配备了和其他战士稍有不同的装备。"
+              "m_value": "One of Reunion's melee soldiers. Their equipment differs slightly from that of other soldiers."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10271,11 +10271,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "特战术师"
+              "m_value": "Spec Ops Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的法术作战人员，他配备的护甲使他拥有<@eb.key>一定防御</>。"
+              "m_value": "A Reunion caster equipped with armor that provides <@eb.key>fairly high defense</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -10374,11 +10374,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "特战术师组长"
+              "m_value": "Spec Ops Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的精英法术作战人员，他配备的护甲使他拥有<@eb.key>一定防御</>，并且能够同时攻击<@eb.key>两个</>目标。"
+              "m_value": "An elite Reunion caster, more dangerous than a Spec Ops Caster, equipped with armor that provides <@eb.key>fairly high defense</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -10477,11 +10477,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "破阵者"
+              "m_value": "Breaker"
             },
             "description": {
               "m_defined": true,
-              "m_value": "训练有素的敌方冲锋单位，移动速度极快且<@eb.key>攻击能力</>比一般单位略高。"
+              "m_value": "A well-trained Reunion rushing unit with high movement speed and <@eb.key>above average ATK</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10580,11 +10580,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "破阵者组长"
+              "m_value": "Breaker Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "训练有素的敌方高级冲锋单位，移动速度极快且<@eb.key>攻击能力</>比一般单位略高。"
+              "m_value": "A well-trained Reunion rushing unit, more dangerous than a normal Break, that has high movement speed and <@eb.key>above average ATK</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10683,11 +10683,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "暴鸰"
+              "m_value": "Bombtail"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>携带有爆破弹头，将会在接近干员时投掷并造成群体物理伤害。"
+              "m_value": "<@eb.key>[Aerial Unit]</> Each of them carries an explosive that can be fired at nearby Operators to cause AOE physical damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10801,11 +10801,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "暴鸰·G"
+              "m_value": "Bombtail-G"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>携带有大型爆破弹头，将会在接近干员时投掷并造成群体物理伤害。"
+              "m_value": "<@eb.key>[Aerial Unit]</> Each of them carries a large explosive that can be fired at nearby Operators to cause AOE physical damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -10919,11 +10919,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "法术大师A1"
+              "m_value": "Arts Master A1"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>飞行速度非常快，使用远程武器造成<@eb.key>法术</>伤害。"
+              "m_value": "<@eb.key>[Aerial Unit]</> A fast flying unit that can attack using <@eb.key>ranged Arts</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11022,11 +11022,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "法术大师A2"
+              "m_value": "Arts Master A2"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>牺牲飞行速度换取了更远的攻击距离，使用远程武器造成大量<@eb.key>法术</>伤害。"
+              "m_value": "<@eb.key>[Aerial Unit]</> By trading off flight speed for power, they have a significantly stronger <@eb.key>ranged Arts</> attack."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11125,11 +11125,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "寒霜"
+              "m_value": "Frost"
             },
             "description": {
               "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>防御力较高，会使周围我方单位的<@eb.key>攻击速度</>会大幅度削减。"
+              "m_value": "<@eb.key>[Aerial Unit]</> A flying unit with high DEF that can significantly reduce the <@eb.key>attack speed</> of nearby Operators."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11239,11 +11239,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "宿主士兵"
+              "m_value": "Possessed Soldier"
             },
             "description": {
               "m_defined": true,
-              "m_value": "被不明意识控制身体的士兵，能快速自然恢复生命。"
+              "m_value": "A soldier that has been controlled by an unknown entity, capable of regenerating rapidly."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11342,11 +11342,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "宿主士兵组长"
+              "m_value": "Possessed Soldier Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "被不明意识控制身体的士兵组长，能快速自然恢复生命。"
+              "m_value": "A more dangerous Possessed Soldier that is capable of regenerating rapidly."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11445,11 +11445,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "宿主拾荒者"
+              "m_value": "Possessed Junkman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "被不明意识控制身体的拾荒者，能快速自然恢复生命。"
+              "m_value": "A Junkman that has been controlled by an unknown entity and is capable of regenerating rapidly."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11548,11 +11548,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "宿主流浪者"
+              "m_value": "Possessed Veteran Junkman"
             },
             "description": {
               "m_defined": true,
-              "m_value": "被不明意识控制身体的流浪者，能快速自然恢复生命。"
+              "m_value": "A more dangerous Junkman that has been controlled by an unknown entity and is capable of regenerating rapidly."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11651,11 +11651,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "粉碎攻坚手"
+              "m_value": "Defense Crusher"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的精英单位，穿着沉重的防爆护具，并且能在数次攻击后<@eb.key>晕眩</>我方单位。"
+              "m_value": "An elite Reunion soldier clad in a heavy blast suit, capable of <@eb.key>stunning</> Operators after a few attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11774,11 +11774,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "粉碎攻坚组长"
+              "m_value": "Defense Crusher Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动的高级精英单位，穿着沉重的防爆护具，并且能在数次攻击后<@eb.key>晕眩</>我方单位。"
+              "m_value": "A more dangerous Defense Crusher, capable of <@eb.key>stunning</> Operators after a few attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -11897,11 +11897,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "步兵"
+              "m_value": "Infantry"
             },
             "description": {
               "m_defined": true,
-              "m_value": "基础近身作战人员。装配的护甲能够抵抗法术伤害。"
+              "m_value": "A basic melee soldier. They are equipped with armor that can withstand some Arts damage."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12000,11 +12000,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "步兵组长"
+              "m_value": "Infantry Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "基础近身作战人员。相比一般步兵拥有更强的作战能力。"
+              "m_value": "A basic melee soldier. They are stronger than normal Infantry."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12103,11 +12103,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "狙击步兵"
+              "m_value": "Sniper"
             },
             "description": {
               "m_defined": true,
-              "m_value": "进行超远距离狙击的作战人员。攻击数次后会<@eb.key>晕眩</>我方单位。"
+              "m_value": "A basic ranged combatant that attacks from long distance. They can <@eb.key>stun</> Operators after a few attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12226,11 +12226,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "狙击步兵组长"
+              "m_value": "Sniper Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "进行超远距离狙击的精英作战人员。攻击数次后<@eb.key>晕眩</>我方单位，持续时间极长。"
+              "m_value": "An elite ranged combatant that attacks from long distance. They can inflict a <@eb.key>long stun</> on Operators after a few attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12349,11 +12349,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "碎岩者"
+              "m_value": "Rockbreaker"
             },
             "description": {
               "m_defined": true,
-              "m_value": "手持的战术斧拥有强大的破坏力。穿戴的护甲在被阻挡时<@eb.key>提升法术抗性</>保护自身。"
+              "m_value": "These melee soldiers inflict heavy damage with their tactical axes. The armor they wear provides them with <@eb.key>bonus RES when blocked.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -12458,11 +12458,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "碎岩者组长"
+              "m_value": "Rockbreaker Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比碎岩者具有更恐怖的破坏力。穿戴的护甲在被阻挡时<@eb.key>大幅提升法术抗性</>来保护自身。"
+              "m_value": "A terrifying, more dangerous variant of the Rockbreaker. The armor they wear provides them with <@eb.key>greater bonus RES when blocked.</>"
             },
             "prefabKey": {
               "m_defined": true,
@@ -12567,11 +12567,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "特工"
+              "m_value": "Agent"
             },
             "description": {
               "m_defined": true,
-              "m_value": "手持的武器在攻击时会短暂减少我方单位的阻挡上限，可以冲破我方防线。"
+              "m_value": "Their attacks reduce Operators' ability to block other enemies, making it easier for enemies to get through."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12681,11 +12681,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "特工组长"
+              "m_value": "Agent Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "比特工拥有更强的作战能力。攻击时会短暂<@eb.key>减少我方单位的阻挡上限</>，能够轻易突破防线。"
+              "m_value": "A more dangerous Agent with stronger combat abilities. Their attacks reduce Operators' ability to block other enemies, making it easier for enemies to get through."
             },
             "prefabKey": {
               "m_defined": true,
@@ -12795,11 +12795,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "\"庞贝\""
+              "m_value": "\"Pompeii\""
             },
             "description": {
               "m_defined": true,
-              "m_value": "被它攻击的单位会受到灼烧伤害。被阻挡时引爆体内岩浆对周围造成<@eb.danger>高额伤害</>。"
+              "m_value": "Operators attacked by this grotesque beast suffer from burn damage over time. When they are blocked, they erupt to deal <@eb.danger>heavy damage to nearby Operators</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13073,11 +13073,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "编制术士"
+              "m_value": "Authorized Caster"
             },
             "description": {
               "m_defined": true,
-              "m_value": "基础法术作战人员。使用<@eb.key>远距离法术攻击</>"
+              "m_value": "A basic caster soldier. Uses <@eb.key>ranged Arts</> attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13176,11 +13176,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "编制术士组长"
+              "m_value": "Authorized Caster Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比一般编制术士更具威胁。使用<@eb.key>远距离法术攻击</>"
+              "m_value": "A more dangerous Authorized Caster. Uses <@eb.key>ranged Arts</> attacks."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13279,11 +13279,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "机动卫兵"
+              "m_value": "Shielded Guard"
             },
             "description": {
               "m_defined": true,
-              "m_value": "标准近身作战人员。配备的机动盾牌使他们攻守兼备。"
+              "m_value": "A standard melee-range soldier. Their lightweight riot shields provide them both offensive and defensive flexibility."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13382,11 +13382,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "机动卫兵组长"
+              "m_value": "Shielded Guard Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比一般机动卫兵更具威胁。配备的机动盾牌使他们攻守兼备。"
+              "m_value": "A more dangerous version of the Shielded Guard. Their lightweight riot shields provide them both offensive and defensive flexibility."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13485,11 +13485,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "工蚁"
+              "m_value": "Ergate"
             },
             "description": {
               "m_defined": true,
-              "m_value": "使用工程技术进行破坏的人员。拥有灵活的行动能力<@eb.key>无法被阻挡</>，请尽快解决。"
+              "m_value": "An engineer that specializes in sabotage. They move quickly and <@eb.key>cannot be blocked</>. Must be eliminated as quickly as possible."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13588,11 +13588,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "工蚁组长"
+              "m_value": "Ergate Leader"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比一般工蚁拥有更强的生存能力。灵活的行动能力使其<@eb.key>无法被阻挡</>，请尽快解决。"
+              "m_value": "A more durable version of the Ergate. They move quickly and <@eb.key>cannot be blocked</>. Must be eliminated as quickly as possible."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13691,11 +13691,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "重装防御者-N型"
+              "m_value": "Heavy Defender Type-N"
             },
             "description": {
               "m_defined": true,
-              "m_value": "身着沉重全装护甲的近战作战人员。拥有<@eb.key>很高的防御力</>，需要小心应对。"
+              "m_value": "A heavily-clad melee combatant. They possess <@eb.key>extremely high defense</>, so proceed with caution."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13794,11 +13794,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "重装防御者-S型"
+              "m_value": "Heavy Defender Type-S"
             },
             "description": {
               "m_defined": true,
-              "m_value": "相比N型，S型的护甲拥有<@eb.key>极高的防御力</>，难以被击溃，是非常棘手的敌人。"
+              "m_value": "Compared to the Heavy Defender Type-N, they have <@eb.key>extremely high defense</> and are even harder to defeat. Please proceed with caution."
             },
             "prefabKey": {
               "m_defined": true,
@@ -13897,11 +13897,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "碎骨"
+              "m_value": "Skullshatterer"
             },
             "description": {
               "m_defined": true,
-              "m_value": "可以的话，请倾全队之力消灭他。该敌人<@eb.danger>威胁极大</>，<@eb.key>远程及近战攻击能造成大量伤害</>。"
+              "m_value": "Try to defeat him as soon as possible, no matter what it takes. This <@eb.danger>extremely dangerous enemy</> attacks with <@eb.key>devastating ranged and melee attacks</>."
             },
             "prefabKey": {
               "m_defined": true,
@@ -14212,11 +14212,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "弑君者"
+              "m_value": "Crownslayer"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动干部，从事敌后活动与突袭暗杀行动，会敏捷地<@eb.key>穿过阻挡其的单位</>。"
+              "m_value": "A Reunion squad leader who specializes in assassination and infiltration. She is able to <@eb.key>bypass</> Operators that try to block her."
             },
             "prefabKey": {
               "m_defined": true,
@@ -14530,7 +14530,7 @@
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动干部，萨卡兹雇佣兵，擅长使用爆炸物。"
+              "m_value": "A Reunion squad leader who was a mercenary from Sarkaz. She is proficient at using explosives."
             },
             "prefabKey": {
               "m_defined": true,
@@ -14649,11 +14649,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "霜星"
+              "m_value": "FrostNova"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动法术部队干部，<@eb.danger>威胁极大</>，能使用冰属性法术<@eb.danger>造成极为恶劣的作战环境</>。"
+              "m_value": "An <@eb.danger>extremely dangerous</> Reunion squad leader who uses her potent Ice Arts to <@eb.danger>form a hostile environment</> on the battlefield."
             },
             "prefabKey": {
               "m_defined": true,
@@ -14960,11 +14960,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "梅菲斯特"
+              "m_value": "Mephisto"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动干部，能同时治疗至多<@eb.key>3名</>敌人，并使全场宿主单位的自然生命回复速度加倍。"
+              "m_value": "A Reunion squad leader who can heal up to <@eb.key>3</> Reunion units at the same time, and doubles the health regeneration of Possessed units."
             },
             "prefabKey": {
               "m_defined": true,
@@ -15167,11 +15167,11 @@
           "enemyData": {
             "name": {
               "m_defined": true,
-              "m_value": "浮士德"
+              "m_value": "Faust"
             },
             "description": {
               "m_defined": true,
-              "m_value": "整合运动干部，<@eb.key>无法被阻挡</>，能进行超远距离的物理攻击，并且能够启动场地中隐藏的<@eb.key>弩炮台</>。"
+              "m_value": "A Reunion squad leader who <@eb.key>cannot be blocked</>. He launches long-ranged physical attacks and can spawn <@eb.key>turrets</> around the battlefield."
             },
             "prefabKey": {
               "m_defined": true,
@@ -15421,4276 +15421,6 @@
                     "key": "branch_id",
                     "value": 0.0,
                     "valueStr": "faust_ballis"
-                  }
-                ]
-              }
-            ],
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1055_ganman",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "西西里人"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "基础近身作战人员。这些来自叙拉古的人以他们的家族名号自称，象征着他们的荣耀。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1055_ganman"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 2700
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 250
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 100
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 10.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1055_ganman_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "精锐西西里人"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "比西西里人拥有更高的作战能力。这些来自叙拉古的人以他们的家族名号自称"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1055_ganman_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3800
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 350
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 160
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 10.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1056_ganwar",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "打手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "经过特殊训练的作战人员。极为快速的出拳往往能给人连续的致命打击。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1056_ganwar"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3200
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 290
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 250
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.95
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 0.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1056_ganwar_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "精干打手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "相比打手拥有更强的破坏力，需要更优秀的防护装备才能抵挡他。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1056_ganwar_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4200
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 380
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 300
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.95
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 0.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1057_gansho",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "射手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "擅长以连续射击攻击敌人。会优先<@eb.key>攻击指挥终端</>切断敌方支援。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1057_gansho"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 180
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 150
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.7
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1057_gansho_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "神射手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "装配比射手更精良的弹药。会优先<@eb.key>攻击指挥终端</>切断敌方支援"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1057_gansho_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 230
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 200
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.7
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1058_traink",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "欺凌者"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "阻挡他相当于阻挡三名敌人，<@eb.key>阻挡能力大于等于3</>的作战人员可阻止其冲破防线。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1058_traink"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 16000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 20.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.2
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.5
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 4
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1058_traink_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "倾轧者"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "阻挡他相当于阻挡三名敌人，<@eb.key>阻挡能力大于等于3</>的作战人员可阻止其冲破防线。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1058_traink_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 25000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1000
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 1000
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.2
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.5
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 4
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1059_buster",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "狂徒"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "会<@eb.key>优先摧毁一切可见的设施</>，并且能够攻击在高台地形的作战单位。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1059_buster"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 9000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 700
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 500
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.8
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 5.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.3
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1059_buster_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "末路狂徒"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "会<@eb.key>优先摧毁一切可见的设施</>，并且能够攻击在高台地形的作战单位。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1059_buster_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 13000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 600
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.8
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 5.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.3
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.8,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1060_emouse",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "灰尾"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "可展开<@eb.key>护盾大幅提升防御力</>。<@eb.key>法术伤害</>可破坏护盾，护盾被摧毁时会大幅提升移动速度"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1060_emouse"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 700
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 250
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 20.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.2
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "shield.dynamic",
-                "value": 2000.0,
-                "valueStr": null
-              },
-              {
-                "key": "shield.def",
-                "value": 1250.0,
-                "valueStr": null
-              },
-              {
-                "key": "speedup.move_speed",
-                "value": 2.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1060_emouse_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "灰尾香主"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "可展开<@eb.key>护盾大幅提升防御力</>。<@eb.key>法术伤害</>可破坏护盾，护盾被摧毁时会大幅提升移动速度"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1060_emouse_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 250
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 20.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.2
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "shield.dynamic",
-                "value": 3334.0,
-                "valueStr": null
-              },
-              {
-                "key": "shield.def",
-                "value": 1750.0,
-                "valueStr": null
-              },
-              {
-                "key": "speedup.move_speed",
-                "value": 2.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1509_mousek",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "鼠王"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "对<@eb.key>生命上限最高</>单位造成大量物理伤害。对<@eb.key>生命上限最低</>单位大幅降低攻击力并造成法术伤害"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1509_mousek"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 22000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 470
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 350
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.6
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 5
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.5
-            },
-            "talentBlackboard": [
-              {
-                "key": "shield.dynamic",
-                "value": 4667.0,
-                "valueStr": null
-              },
-              {
-                "key": "defup.def",
-                "value": 3000.0,
-                "valueStr": null
-              },
-              {
-                "key": "enrage.hp_ratio",
-                "value": 0.5,
-                "valueStr": null
-              },
-              {
-                "key": "enrage.damage_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "DriftSand",
-                "priority": 0,
-                "cooldown": 15.0,
-                "initCooldown": 20.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "damage",
-                    "value": 800.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "SandStorm",
-                "priority": 0,
-                "cooldown": 25.0,
-                "initCooldown": 60.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "damage",
-                    "value": 70.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "atk",
-                    "value": -0.7,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "duration",
-                    "value": 15.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "Mark",
-                "priority": 1,
-                "cooldown": 9999.0,
-                "initCooldown": 1.0,
-                "spCost": 0,
-                "blackboard": null
-              }
-            ],
-            "spData": null
-          }
-        },
-        {
-          "level": 1,
-          "enemyData": {
-            "name": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "description": {
-              "m_defined": false,
-              "m_value": "鼠王BOSS，使用流沙的法师"
-            },
-            "prefabKey": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 36000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 590
-              },
-              "def": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "attackSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "baseAttackTime": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": false,
-              "m_value": 0
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "shield.dynamic",
-                "value": 7334.0,
-                "valueStr": null
-              },
-              {
-                "key": "defup.def",
-                "value": 3000.0,
-                "valueStr": null
-              },
-              {
-                "key": "enrage.hp_ratio",
-                "value": 0.5,
-                "valueStr": null
-              },
-              {
-                "key": "enrage.damage_scale",
-                "value": 1.7,
-                "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "DriftSand",
-                "priority": 0,
-                "cooldown": 15.0,
-                "initCooldown": 10.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "damage",
-                    "value": 1500.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "SandStorm",
-                "priority": 1,
-                "cooldown": 20.0,
-                "initCooldown": 15.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "damage",
-                    "value": 100.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "duration",
-                    "value": 15.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "atk",
-                    "value": -0.7,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "Mark",
-                "priority": 1,
-                "cooldown": 9999.0,
-                "initCooldown": 1.0,
-                "spCost": 0,
-                "blackboard": null
-              }
-            ],
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1061_zomshd",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "宿主重装士兵"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "被不明意识控制身体的重装士兵，能快速自然恢复生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1061_zomshd"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 10000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 600
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.75
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.6
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 200.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 3
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1061_zomshd_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "宿主重装组长"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "被不明意识控制身体的重装士兵组长，能快速自然恢复生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1061_zomshd_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 16000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 800
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 1000
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.75
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.6
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 250.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 3
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1062_rager",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "狂暴宿主士兵"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "逐渐陷入狂乱的敌方士兵，<@eb.danger>攻击力很高</>，会持续损失生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1062_rager"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 20000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1000
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 200
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.2
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.3
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "periodic_damage.damage",
-                "value": 330.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1062_rager_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "狂暴宿主组长"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "彻底失去理智的敌方士兵，<@eb.danger>攻击力很高</>，会持续损失生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1062_rager_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 30000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1750
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 230
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.2
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.3
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "periodic_damage.damage",
-                "value": 500.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1063_rageth",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "狂暴宿主投掷手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "逐渐陷入狂乱的敌方投掷手，<@eb.danger>攻击力很高</>，会持续损失生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1063_rageth"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 15000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 750
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 200
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.7
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.6
-            },
-            "talentBlackboard": [
-              {
-                "key": "periodic_damage.damage",
-                "value": 250.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1063_rageth_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "狂暴宿主掷骨手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "彻底失去理智的敌方投掷手，<@eb.danger>攻击力很高</>，会持续损失生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1063_rageth_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 22000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1050
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 220
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.7
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.6
-            },
-            "talentBlackboard": [
-              {
-                "key": "periodic_damage.damage",
-                "value": 350.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1064_snsbr",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪小队"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队基础近身作战人员，攻击被<@eb.key>冻结</>的单位时攻击力提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1064_snsbr"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3400
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 360
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 100
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.1
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        },
-        {
-          "level": 1,
-          "enemyData": {
-            "name": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "description": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "prefabKey": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 5000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 380
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 135
-              },
-              "magicResistance": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "attackSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "baseAttackTime": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": false,
-              "m_value": 0
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": null,
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1065_snwolf",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "霜牙"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队术师部队操纵的高速生物，攻击被<@eb.key>冻结</>的单位时攻击力提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1065_snwolf"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3150
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 350
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1065_snwolf_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "霜锐"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "比霜牙更加难缠，攻击被<@eb.key>冻结</>的单位时攻击力提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1065_snwolf_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4650
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 430
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1066_snbow",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪狙击手"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队中的远程作战人员，攻击被<@eb.key>冻结</>的单位时攻击力提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1066_snbow"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 2500
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 290
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 80
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.9
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1066_snbow_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪狙击手组长"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队狙击手中的精英，攻击被<@eb.key>冻结</>的单位时攻击力提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1066_snbow_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3500
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 360
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 100
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.9
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 2.4
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 1
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 1.9
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 1.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1067_snslime",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "冰爆源石虫"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "来自寒冷地区的被感染生物，死亡后对周围我方单位造成物理伤害且施加<@eb.key>寒冷</>。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1067_snslime"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 3250
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 300
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.7
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 1.75
-            },
-            "talentBlackboard": [
-              {
-                "key": "boom.atk_scale",
-                "value": 2.0,
-                "valueStr": null
-              },
-              {
-                "key": "boom.freeze",
-                "value": 10.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1067_snslime_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "冰爆源石虫·α"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "感染更严重的冰爆源石虫，死亡后对周围我方单位造成物理伤害且施加<@eb.key>寒冷</>。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1067_snslime_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4850
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 370
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.7
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 1.9
-            },
-            "talentBlackboard": [
-              {
-                "key": "boom.atk_scale",
-                "value": 2.0,
-                "valueStr": null
-              },
-              {
-                "key": "boom.freeze",
-                "value": 10.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1068_snmage",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪术师"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队中的法术作战人员，每攻击2次后下次攻击会对目标施加<@eb.key>寒冷</>。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1068_snmage"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 5000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 320
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 200
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 50.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.8
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 4.5
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.2
-            },
-            "talentBlackboard": null,
-            "skills": [
-              {
-                "prefabKey": "coldattack",
-                "priority": 0,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 2,
-                "blackboard": [
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": {
-              "spType": 2,
-              "maxSp": 2,
-              "initSp": 0,
-              "increment": 1.0
-            }
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1068_snmage_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪术师组长"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队法术作战人员中的精英，每攻击2次后下次攻击会对目标施加<@eb.key>寒冷</>。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1068_snmage_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 8000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 400
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 250
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 50.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.8
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 4.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 2
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.2
-            },
-            "talentBlackboard": null,
-            "skills": [
-              {
-                "prefabKey": "coldattack",
-                "priority": 0,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 2,
-                "blackboard": [
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": {
-              "spType": 2,
-              "maxSp": 2,
-              "initSp": 0,
-              "increment": 1.0
-            }
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1069_icebrk",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪小队凿冰人"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队中的特殊近身作战人员，攻击被<@eb.key>冻结</>的单位时攻击力大幅度提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1069_icebrk"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 16000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 830
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 500
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 20.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.7
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 3
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 1.9
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 2.5,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1069_icebrk_2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "雪怪小队破冰者"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队近身作战人员中的精英，攻击被<@eb.key>冻结</>的单位时攻击力巨幅提高。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1069_icebrk_2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 25000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1100
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 600
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 20.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.7
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 3
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 1.9
-            },
-            "talentBlackboard": [
-              {
-                "key": "atkup.atk_scale",
-                "value": 3.0,
-                "valueStr": null
-              }
-            ],
-            "skills": null,
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1070_iced",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "虚幻"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "<@eb.key>【飞行单位】</>携带有冰爆弹头，投掷后造成群体法术伤害并施加<@eb.key>寒冷</>。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1070_iced"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 4000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 500
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 180
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 30.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.6
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 1.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.5
-            },
-            "talentBlackboard": null,
-            "skills": [
-              {
-                "prefabKey": "bomb",
-                "priority": 0,
-                "cooldown": 5.0,
-                "initCooldown": 5.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1510_frstar2",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "霜星，“冬痕”"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": "雪怪小队领袖，为了最后的战斗解放了所剩无几的生命。"
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1510_frstar2"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 30000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 440
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 380
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 50.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.5
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.7
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 6
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 2
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "reborn.duration",
-                "value": 10.0,
-                "valueStr": null
-              },
-              {
-                "key": "reborn.atk",
-                "value": 0.5,
-                "valueStr": null
-              },
-              {
-                "key": "reborn.reborn_invincible.duration",
-                "value": 20.0,
-                "valueStr": null
-              },
-              {
-                "key": "attackfreeze.freeze",
-                "value": 5.0,
-                "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "IceShield",
-                "priority": 2,
-                "cooldown": 35.0,
-                "initCooldown": 35.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_cnt",
-                    "value": 2.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceShield[Reborn]",
-                "priority": 2,
-                "cooldown": 35.0,
-                "initCooldown": 35.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_cnt",
-                    "value": 3.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "SummonFrosts",
-                "priority": 10,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "branch_id",
-                    "value": 0.0,
-                    "valueStr": "frstar_frosts"
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceBurst",
-                "priority": 1,
-                "cooldown": 10.5,
-                "initCooldown": 10.5,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "frstar2_s.atk_scale",
-                    "value": 2.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceBurst[Reborn]",
-                "priority": 1,
-                "cooldown": 10.5,
-                "initCooldown": 10.5,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "frstar2_s.atk_scale",
-                    "value": 2.0,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": null
-          }
-        },
-        {
-          "level": 1,
-          "enemyData": {
-            "name": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "description": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "prefabKey": {
-              "m_defined": false,
-              "m_value": null
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 40000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 530
-              },
-              "def": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "magicResistance": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "attackSpeed": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "baseAttackTime": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": false,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": false,
-                "m_value": false
-              },
-              "silenceImmune": {
-                "m_defined": false,
-                "m_value": false
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": false,
-              "m_value": 0
-            },
-            "rangeRadius": {
-              "m_defined": false,
-              "m_value": 0.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "reborn.reborn_invincible.duration",
-                "value": 25.0,
-                "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "IceShield",
-                "priority": 2,
-                "cooldown": 35.0,
-                "initCooldown": 35.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_cnt",
-                    "value": 3.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceShield[Reborn]",
-                "priority": 2,
-                "cooldown": 35.0,
-                "initCooldown": 35.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_cnt",
-                    "value": 4.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "SummonFrosts",
-                "priority": 10,
-                "cooldown": 0.0,
-                "initCooldown": 0.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "branch_id",
-                    "value": 0.0,
-                    "valueStr": "frstar_frosts"
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceBurst",
-                "priority": 1,
-                "cooldown": 10.5,
-                "initCooldown": 10.5,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "frstar2_s.atk_scale",
-                    "value": 2.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceBurst[Reborn]",
-                "priority": 1,
-                "cooldown": 10.5,
-                "initCooldown": 10.5,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "frstar2_s.atk_scale",
-                    "value": 2.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  }
-                ]
-              }
-            ],
-            "spData": null
-          }
-        }
-      ]
-    },
-    {
-      "Key": "enemy_1510_frstar2_s",
-      "Value": [
-        {
-          "level": 0,
-          "enemyData": {
-            "name": {
-              "m_defined": true,
-              "m_value": "霜星S"
-            },
-            "description": {
-              "m_defined": true,
-              "m_value": ""
-            },
-            "prefabKey": {
-              "m_defined": true,
-              "m_value": "enemy_1510_frstar2_s"
-            },
-            "attributes": {
-              "maxHp": {
-                "m_defined": true,
-                "m_value": 95000
-              },
-              "atk": {
-                "m_defined": true,
-                "m_value": 1200
-              },
-              "def": {
-                "m_defined": true,
-                "m_value": 300
-              },
-              "magicResistance": {
-                "m_defined": true,
-                "m_value": 50.0
-              },
-              "cost": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "blockCnt": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "moveSpeed": {
-                "m_defined": true,
-                "m_value": 0.25
-              },
-              "attackSpeed": {
-                "m_defined": true,
-                "m_value": 100.0
-              },
-              "baseAttackTime": {
-                "m_defined": true,
-                "m_value": 3.7
-              },
-              "respawnTime": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "hpRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "spRecoveryPerSec": {
-                "m_defined": true,
-                "m_value": 0.0
-              },
-              "maxDeployCount": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "massLevel": {
-                "m_defined": true,
-                "m_value": 6
-              },
-              "baseForceLevel": {
-                "m_defined": false,
-                "m_value": 0
-              },
-              "stunImmune": {
-                "m_defined": true,
-                "m_value": true
-              },
-              "silenceImmune": {
-                "m_defined": true,
-                "m_value": true
-              }
-            },
-            "lifePointReduce": {
-              "m_defined": true,
-              "m_value": 1
-            },
-            "rangeRadius": {
-              "m_defined": true,
-              "m_value": 2.0
-            },
-            "talentBlackboard": [
-              {
-                "key": "blood.damage",
-                "value": 2000.0,
-                "valueStr": null
-              }
-            ],
-            "skills": [
-              {
-                "prefabKey": "IceShield",
-                "priority": 2,
-                "cooldown": 1000.0,
-                "initCooldown": 23.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "max_cnt",
-                    "value": 3.0,
-                    "valueStr": null
-                  }
-                ]
-              },
-              {
-                "prefabKey": "IceBurst",
-                "priority": 1,
-                "cooldown": 1000.0,
-                "initCooldown": 16.0,
-                "spCost": 0,
-                "blackboard": [
-                  {
-                    "key": "atk_scale",
-                    "value": 1.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "freeze",
-                    "value": 10.0,
-                    "valueStr": null
-                  },
-                  {
-                    "key": "frstar2_s.atk_scale",
-                    "value": 2.0,
-                    "valueStr": null
                   }
                 ]
               }

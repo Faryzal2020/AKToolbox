@@ -437,7 +437,7 @@
             $('#operatorsResult').hide();
             var opdata = query(db.chars2,"name_cn",opname);
             var opclass = query(db.classes,"type_cn",opdata.type);
-            var opdata2 = query(db.chars,"name",opdata.name_cn,true,true);
+            var opdata2 = query(db.chars,"name",opdata.name_en,true,true);
 
             var opcode = Object.keys(opdata2)[0]
             
@@ -600,15 +600,17 @@
                 EliteStatsDisplay(1,i);
             }
 
-            var unreadable = query(db.unreadNameTL,"name",opdata.name_en).name_en
+            // var unreadable = query(db.unreadNameTL,"name",opdata.name_en).name_en
+            console.log(opdata2)
             $("#op-nameTL").html(eval("opdata.name_"+lang));
-            $("#op-nameREG").html("["+eval("opdata.name_"+reg)+"]");
+            // $("#op-nameREG").html("["+eval("opdata.name_"+reg)+"]");
             $("#op-displaynum").html(`${opdataFull.displayNumber} | ${opdataFull.id.split("_")[1]}`)
-            if(unreadable){
-                $("#op-nameRead").html(`[ ${unreadable} ]`);
-            }else{
-                $("#op-nameRead").html("")
-            }
+            // if(unreadable){
+            //     $("#op-nameRead").html(`[ ${unreadable} ]`);
+            // }else{
+            //     $("#op-nameRead").html("")
+            // }
+            if(opdata2.name!=opdata2.appellation) $$("#op-nameREG").html(`[ ${opdata2.appellation} ]`);
             var gender = query(db.gender,"sex_cn",opdata.sex);
             
             $("#op-gender").html(titledMaker(eval("gender.sex_"+lang),`Gender`))
@@ -646,13 +648,8 @@
             }
             var tags_html = [];
             $.each(opdataFull.tagList,function(_,v){
-                var tag = query(db.tags,"tag_cn",v);
-                if(tag){
-                    var tagReg = eval('tag.tag_'+reg);
-                    var tagTL = eval('tag.tag_'+lang);
-                    tags_html.push("<li style=\"list-style-type:none; padding-bottom: 10px;\"><button readonly type=\"button\" class=\"btn btn-sm ak-shadow-small ak-btn btn-secondary btn-char my-1\" data-toggle=\"tooltip\" data-placement=\"top\" title=\""+ tagReg +"\">" +
-                            (tagReg == tagTL ? "" : '<a class="ak-subtitle2" style="font-size:11px;margin-left:-9px;margin-bottom:-15px">'+tagReg+'</a>') +tagTL + "</button></li>");
-                }
+                tags_html.push("<li style=\"list-style-type:none; padding-bottom: 10px;\"><button readonly type=\"button\" class=\"btn btn-sm ak-shadow-small ak-btn btn-secondary btn-char my-1\" data-toggle=\"tooltip\" data-placement=\"top\" title=\"en\">" +
+                             v + "</button></li>");
             });
             var newtags = `<div style='margin-top: 12px;margin-bottom:0px'>${tags_html.join("")}</div>`
             // $("#op-potentialist").html(titledMaker(potentialist.join(""),"Potentials"))
@@ -683,7 +680,7 @@
                 $.each(skillData.levels,function(i2,v2){
                     // console.log(v2['spData'].spCost);
                     var currSkill = skillData.levels[i2]
-                    skillname = db.skillsTL[skillId]?db.skillsTL[skillId].name:currSkill.name;
+                    skillname = currSkill.name;
                     var skilldesc = getSkillDesc(skillId,i2);
                     var skillMat = GetSkillCost(i2,i,opdataFull)
                     var force
@@ -955,7 +952,7 @@
         
         var curraudiolist = []
         var puretextlist =[]
-        var currTL = db.voicelineTL[opdataFull.id]
+        var currTL = undefined
         Object.keys(db.charword).forEach(element => {
             if(db.charword[element]){
                 var curraudio = db.charword[element]
@@ -978,7 +975,7 @@
             //     curraudio= '<audio controls> <source src="./etc/voice/${element.voiceAsset}.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio> '
             // }
             var voiceTL = element.voiceText
-            if(currTL)voiceTL= currTL.voiceline[element.voiceTitle][lang]?currTL.voiceline[element.voiceTitle][lang]: element.voiceText
+            // if(currTL)voiceTL= currTL.voiceline[element.voiceTitle][lang]?currTL.voiceline[element.voiceTitle][lang]: element.voiceText
             // console.log(element.voiceTitle)
             // console.log(currTL)
             // console.log(currTL.voiceline[element.voiceTitle])
@@ -1025,7 +1022,7 @@
                 puretext.push(storySection.stories[0].storyText)
                 puretext.push("")
                 switch(storySection.storyTitle){
-                    case "基础档案":
+                    case "Basic Info":
                         var basicInfo = storySection.stories[0].storyText.split("\n")
                         var basicInfoTL = []
                         var webTL = []
@@ -1033,7 +1030,7 @@
                         // if(basicInfo.length>20)islong = true;
                         // console.log(basicInfo.length)
                         basicInfo.forEach((info,n) => {
-                            var check = /(【)(.*)(】)(.*)/
+                            var check = /(\[)(.*)(\])(.*)/
                             var infoTitle = check.exec(info)
                             if(infoTitle){
                                 var title = db.storytextTL[infoTitle[2]]?db.storytextTL[infoTitle[2]]:infoTitle[2]
@@ -1151,13 +1148,13 @@
                         // textTL.push(basicInfoTL.join("</br>"))
                         // console.log(basicInfoTL.join("\n"))
                     ;break;
-                case "综合性能检测结果" :
-                case "综合体检测试" :
+                case "Performance Review" :
+                case "Physical Exam" :
                     var basicInfo = storySection.stories[0].storyText.split("\n")
                     var basicInfoTL = []
                     var webTL = []
                     basicInfo.forEach(info => {
-                        var check = /(【)(.*)(】)(.*)/
+                        var check = /(\[)(.*)(\])(.*)/
                         var infoTitle = check.exec(info)
                         if(infoTitle){
                             var title = db.storytextTL[infoTitle[2]]?db.storytextTL[infoTitle[2]]:infoTitle[2]
@@ -1342,7 +1339,7 @@
         for(i=0;i<opdataFull.talents.length;i++){
             var currTalent = opdataFull.talents[i]
             // if(!db.talentsTL[id])break;
-            var currTalentTL = db.talentsTL[id]?db.talentsTL[id][i]:undefined
+            var currTalentTL = undefined
             var talentGroup = []
             for(j=0;j<currTalent.candidates.length;j++){
                 var currCandidate = currTalent.candidates[j] 
@@ -1466,7 +1463,7 @@
         // console.log(splitdesc)
         // console.log("===========================")
         
-        return SpecialityHtml(splitdesc,opdataFull)
+        return SpecialityHtml(description,splitdesc,opdataFull)
     }
     function GetTrust(opdataFull){
         // console.log()
@@ -1507,7 +1504,7 @@
         });
         return titledMaker(readable.join("</br>"),"Trust extra status","","","color:#ddd;min-width:120px")
     }
-    function SpecialityHtml(splitdesc,opdataFull){
+    function SpecialityHtml(desc,splitdesc,opdataFull){
         let splitdescTL = []
         let color = ""
         let trait = opdataFull.trait
@@ -1574,7 +1571,7 @@
         // console.log(splitdescTL)
         // console.log(color)
 
-        return titledMaker(splitdescTL.join("</br>"),"Traits",`ak-trait-${color}`)
+        return titledMaker(`<div style="word-wrap: break-word;">${desc}</div>`,"Traits",`ak-trait-${color}`,"","word-wrap: break-word;")
         // splitdescTL
     }
 
@@ -1736,7 +1733,7 @@
     function getSkillDesc(skillId,level){
         var skill = db.skills[skillId].levels[level];
         var skillTL = db.skillsTL[skillId];
-        var desc = skillTL?skillTL.desc[level]:skill.description;
+        var desc = skill.description
         //console.log(`Skill|${skillId}|${skill.name} `);
         //console.log(skill.blackboard)
         // console.log(desc)
